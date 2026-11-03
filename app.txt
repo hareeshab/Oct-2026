@@ -1,1 +1,1 @@
-Application Version: 1.0
+Application Version payment feature is added
